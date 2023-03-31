@@ -1,6 +1,6 @@
 # Olá, eu me chamo Wallace
 
-### Eu sou estudante de Tecnologia em Jogos Digitais pelo IFMS e atualmente estou estudando desenvolvimento Android com Kotlin/Java. Aqui no meu perfil do GitHub você encontrará alguns dos meus projetos pessoais e de estudo.
+### Eu sou estudante de Tecnologia em Jogos Digitais pelo IFMS e atualmente estou estudando desenvolvimento Android com Kotlin. Aqui no meu perfil do GitHub você encontrará alguns dos meus projetos pessoais e de estudo.
 
   <img align="left" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
