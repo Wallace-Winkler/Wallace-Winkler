@@ -6,7 +6,7 @@
   <img align="left" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="left" alt="icon-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img align="left" alt="icon-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="left" alt="icon-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Wallace-cartoon-pic" height="150" style="border-radius:50px;" src="https://instagram.fdou2-1.fna.fbcdn.net/v/t51.2885-19/338777865_627641096046674_274923705460131470_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fdou2-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=rWTdBz6_XP4AX_BR_A8&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfBy_4ORrmd38kggrwS6zW8V_2duZgRoDUkvVv5-XqNz1g&oe=65E13A16&_nc_sid=8b3546">
 </div>
 <br>
